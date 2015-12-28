@@ -1,4 +1,4 @@
-# UsefulSQLQueries
+# Useful SQL Queries
 Handy SQL Queries which include:
 - Query active database connections
 - Find a keyword in any object definition
