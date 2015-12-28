@@ -1,0 +1,2 @@
+# UsefulSQLQueries
+Handy SQL Queries
